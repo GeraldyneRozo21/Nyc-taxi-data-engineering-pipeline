@@ -137,6 +137,8 @@ Published with Databricks SQL Dashboards:
 5. Bar chart — Top 10 zones by volume (colored by Borough)
 6. Line chart — Average fare by distance, with a data quality note
 
+https://dbc-33bca9dd-8a76.cloud.databricks.com/dashboardsv3/01f1a7d6f72d1b868bed1b344b0c7326/published?o=7474659028052778
+
 ## Business findings
 
 - **Peak hour:** 6:00 PM, with 666,563 trips — aligns with typical
